@@ -1,1 +1,3 @@
-# Fair-Bargaining-Logistic-Regression
+# Fair Kalai Smorodinsky Bargaining Solution Logistic Regression
+
+This project implements Kalai Smorodinsky Bargaining Solution to Logistic Regression models defined for Discriminated and Privileged groups. More specifically, if one creates two independent Logistic Regression models (one for discriminated group and other for the privileged group) coefficients can be adjusted using Bargaining solution where ratio of Disparate Impact and Logistic Loss is used as a bargaining basis.
